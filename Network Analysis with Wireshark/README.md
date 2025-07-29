@@ -1,6 +1,6 @@
-#  Day 2: Network Packet Analysis using Wireshark
+#   Network Packet Analysis using Wireshark
 
-This folder contains the Day 2 cybersecurity project focused on capturing and analyzing live network traffic using **Wireshark**.
+This folder contains my cybersecurity project focused on capturing and analyzing live network traffic using **Wireshark**.
 
 ---
 
@@ -51,7 +51,7 @@ Understand how data flows through a network by:
 
 | File | Description |
 |------|-------------|
-| `Day2_Network_Packet_Analysis_Report_UPDATED.docx` | Full documentation with screenshots and analysis |
+| `Network_Packet_Analysis_Report.docx` | Full documentation with screenshots and analysis |
 | `capture.pcapng` | Saved packet capture file 
 
 ---
